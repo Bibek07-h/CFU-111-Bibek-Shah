@@ -1,4 +1,68 @@
+/* bibek shah hello */
+
+
+
+
+/* defaults  */
+
+
+
+
 body{
-    background-color:yellow;
+    background-image:url("../Images/stone.jpg");
+
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
+/*header */
+
+ header {
+     background-color: white;
+     padding: 50px;
+ }
+
+ .header-text {
+     color: purple;
+     font-size: 30px;
+     text-align: center;
+ }
+
+ .header-sub-text {
+     color: red;
+     font-size: 20px;
+     text-align: center;
+ }
+
+
+
+/* footer */
+
+
+/* sections */
+
+section{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    margin-bottom: 50px;
+    padding:20px;
+
+
+
+
+}
+.intro{
+    background-color: pink;
+}
+.content{
+    background-color: rgba(0, 128, 0, 0.678);
+}
+.final{
+    background-color: RGBA(240, 128, 128,0.7);
+}
+
+
+/* forms  */
+
+
