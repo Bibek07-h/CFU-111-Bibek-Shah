@@ -9,7 +9,7 @@
 
 
 body{
-    background-image:url("../Images/Amway.jpg");
+    
 
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -46,7 +46,10 @@ video{
      text-align: center;
  }
 
-
+video{
+    margin: 1px auto;
+    display:block;
+}
 
 /* footer */
 
@@ -56,7 +59,7 @@ video{
 section{
     border-width: 1px;
     border-color: black;
-    border-style: solid;
+   
     margin-bottom: 50px;
     padding:20px;
 
